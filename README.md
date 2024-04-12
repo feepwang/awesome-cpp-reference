@@ -1,12 +1,20 @@
 This repo begins with my personal post/article/blog collection.
 
-I have learned cpp for years , and it's still comprehensive and complicate to me . -_-!
+I have learned cpp for years , and it's still comprehensive and complicate to me .
 
-# Reference
 
-[cppreference](https://en.cppreference.com)
 
-# Article/Post/Blog
+- [cppreference](https://en.cppreference.com): every cpp learner should known this website. 
+
+
+
+# Authors
+
+## Andreas Fertig
+
+- [When an empty destructor is required](https://andreasfertig.blog/2023/12/when-an-empty-destructor-is-required/)
+- [C++20 Concepts applied - safe bitmasks using scoped enums](https://andreasfertig.blog/2024/01/cpp20-concepts-applied/)
+- [Aggregates: C++17 vs C++20](https://andreasfertig.blog/2024/02/aggregates-cpp17-vs-cpp20/)
 
 ## Bartlomiej Filipek
 
@@ -63,6 +71,13 @@ I have learned cpp for years , and it's still comprehensive and complicate to me
   18. [Limiting message chains](https://marcoarena.wordpress.com/2024/02/08/sobjectizer-tales-18/)
   19. [Thread-safe handlers](https://marcoarena.wordpress.com/2024/02/15/sobjectizer-tales-19/)
   20. [Performance, part 1](https://marcoarena.wordpress.com/2024/02/22/sobjectizer-tales-20/)
+  21. [Performance, part 2](https://marcoarena.wordpress.com/2024/02/29/sobjectizer-tales-21/)
+  22. [Performance, part 3](https://marcoarena.wordpress.com/2024/03/07/sobjectizer-tales-22/)
+  23. [Mutable messages](https://marcoarena.wordpress.com/2024/03/14/sobjectizer-tales-23/)
+  24. [Delivering messages at shutdown](https://marcoarena.wordpress.com/2024/03/21/sobjectizer-tales-24/)
+  25. [Runtime telemetry](https://marcoarena.wordpress.com/2024/03/28/sobjectizer-tales-25/)
+  26. [Dispatcher selection](https://marcoarena.wordpress.com/2024/04/04/sobjectizer-tales-26/)
+  27. [Design ideas](https://marcoarena.wordpress.com/2024/04/11/sobjectizer-tales-27/)
 
 ## Michael Kristofik
 
@@ -74,6 +89,10 @@ I have learned cpp for years , and it's still comprehensive and complicate to me
   - [Literal Operators and User-Defined Literals](https://medium.com/factset/modern-c-in-depth-literal-operators-and-user-defined-literals-c24fab27f77a)
   - [Is string_view Worth It?](https://medium.com/factset/modern-c-in-depth-is-string-view-worth-it-7ae7570b7830)
   - [Transparent Comparisons](https://medium.com/factset/modern-c-in-depth-transparent-comparisons-afef5900535b)
+
+## Mihail Dumitrescu
+
+- [Fastest Branchless Binary Search](https://mhdm.dev/posts/sb_lower_bound/)
 
 ## Rainer Grimm
 
