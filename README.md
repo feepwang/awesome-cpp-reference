@@ -118,6 +118,7 @@ I have learned cpp for years , and it's still comprehensive and complicate to me
 - [Why doesn’t my code compile when I change a `shared_ptr<T>(p)` to an equivalent `make_shared<T>(p)`?](https://devblogs.microsoft.com/oldnewthing/20240103-00/?p=109228)
 - [On harmful overuse of `std::move`](https://devblogs.microsoft.com/oldnewthing/20231124-00/?p=109059#comment-140903)
 - [More on harmful overuse of `std::move`](https://devblogs.microsoft.com/oldnewthing/20240603-00/?p=109842)
+- [Why can’t I find the injected name of a templated class’s templated base class?](https://devblogs.microsoft.com/oldnewthing/20240517-00/?p=109774)
 
 ## Sandor Dargo
 
