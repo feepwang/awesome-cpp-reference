@@ -14,6 +14,7 @@ I have learned cpp for years , and it's still comprehensive and complicate to me
 
 - C++ programmer's guide to undefined behavior
   1. [1 of 11](https://pvs-studio.com/en/blog/posts/cpp/1129/)
+  1. [2 of 11](https://pvs-studio.com/en/blog/posts/cpp/1136/)
 
 ## Andreas Fertig
 
@@ -34,9 +35,16 @@ I have learned cpp for years , and it's still comprehensive and complicate to me
   2. [Part 2](https://blog.cloudflare.com/how-to-execute-an-object-file-part-2/)
   3. [Part 3](https://blog.cloudflare.com/how-to-execute-an-object-file-part-3/)
 
+## John Farrier
+
+- [Looking for Pointers: The C++ Memory Safety Debate](https://johnfarrier.com/looking-for-pointers-the-c-memory-safety-debate/)
+
 ## Johnny's Software Lab
 
 - [Make your programs run faster by better using the data cache](https://johnnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/)
+- Latency-Sensitive Applications and the Memory Subsystem
+  - [Keeping the Data in the Cache](https://johnnysswlab.com/latency-sensitive-applications-and-the-memory-subsystem-keeping-the-data-in-the-cache/)
+  - [Memory Management Mechanisms](https://johnnysswlab.com/latency-sensitive-application-and-the-memory-subsystem-part-2-memory-management-mechanisms/)
 
 ## Jonathan Boccara
 
@@ -108,6 +116,8 @@ I have learned cpp for years , and it's still comprehensive and complicate to me
   4. [Part 4](https://devblogs.microsoft.com/oldnewthing/20230825-00/?p=108652)
 - [The move constructor that you have to declare, even though you don’t want anyone to actually call it](https://devblogs.microsoft.com/oldnewthing/20230612-00/?p=108329)
 - [Why doesn’t my code compile when I change a `shared_ptr<T>(p)` to an equivalent `make_shared<T>(p)`?](https://devblogs.microsoft.com/oldnewthing/20240103-00/?p=109228)
+- [On harmful overuse of `std::move`](https://devblogs.microsoft.com/oldnewthing/20231124-00/?p=109059#comment-140903)
+- [More on harmful overuse of `std::move`](https://devblogs.microsoft.com/oldnewthing/20240603-00/?p=109842)
 
 ## Sandor Dargo
 
