@@ -10,6 +10,11 @@ I have learned cpp for years , and it's still comprehensive and complicate to me
 
 # Authors
 
+## Andrey Karpov, Dmitry Sviridkin
+
+- C++ programmer's guide to undefined behavior
+  1. [1 of 11](https://pvs-studio.com/en/blog/posts/cpp/1129/)
+
 ## Andreas Fertig
 
 - [When an empty destructor is required](https://andreasfertig.blog/2023/12/when-an-empty-destructor-is-required/)
@@ -48,37 +53,6 @@ I have learned cpp for years , and it's still comprehensive and complicate to me
   - [What SFINAE Brings to Code](https://www.fluentcpp.com/2018/05/15/make-sfinae-pretty-1-what-value-sfinae-brings-to-code/)
   - [the Hidden Beauty of SFINAE](https://www.fluentcpp.com/2018/05/18/make-sfinae-pretty-2-hidden-beauty-sfinae/)
 
-## Macro Arena
-
-- [SObjectizer](https://marcoarena.wordpress.com/2023/10/05/sobjectizer-tales-prelude/)
-  1. [Producing Images](https://marcoarena.wordpress.com/2023/10/12/sobjectizer-tales-1/)
-  2. [Can you call me back?](https://isocpp.org//blog/2023/10/sobjectizer-tales-2.-can-you-call-me-back)
-  3. [Acquisition loop revisited](https://marcoarena.wordpress.com/2023/10/26/sobjectizer-tales-3/)
-  4. [Handling commands](https://marcoarena.wordpress.com/2023/11/02/sobjectizer-tales-4/)
-  5. [Sending commands](https://marcoarena.wordpress.com/2023/10/26/sobjectizer-tales-3/)
-  6. [Is the stream still in progress?](https://marcoarena.wordpress.com/2023/11/16/sobjectizer-tales-6/)
-  7. [Agent composition](https://marcoarena.wordpress.com/2023/11/23/sobjectizer-tales-7/)
-  8. [Representing errors](https://marcoarena.wordpress.com/2023/11/30/sobjectizer-tales-8/)
-  9. [Splitting work](https://marcoarena.wordpress.com/2023/12/07/sobjectizer-tales-9/)
-  10. [Handling GUI from main](https://marcoarena.wordpress.com/2023/12/14/sobjectizer-tales-10/)
-  11. [Interlude: testing](https://marcoarena.wordpress.com/2023/12/21/sobjectizer-tales-11/)
-  12. [Receiving commands from the network](https://marcoarena.wordpress.com/2023/12/28/sobjectizer-tales-12/)
-  13. [Routing images across the network](https://marcoarena.wordpress.com/2024/01/04/sobjectizer-tales-13/)
-  14. [Triggering agent shutdown](https://marcoarena.wordpress.com/2024/01/11/sobjectizer-tales-14/)
-  15. [Monitoring disconnections](https://marcoarena.wordpress.com/2024/01/18/sobjectizer-tales-15/)
-  16. [Interrupting work](https://marcoarena.wordpress.com/2024/01/25/sobjectizer-tales-16/)
-  17. [Limiting message flow](https://marcoarena.wordpress.com/2024/02/01/sobjectizer-tales-17/)
-  18. [Limiting message chains](https://marcoarena.wordpress.com/2024/02/08/sobjectizer-tales-18/)
-  19. [Thread-safe handlers](https://marcoarena.wordpress.com/2024/02/15/sobjectizer-tales-19/)
-  20. [Performance, part 1](https://marcoarena.wordpress.com/2024/02/22/sobjectizer-tales-20/)
-  21. [Performance, part 2](https://marcoarena.wordpress.com/2024/02/29/sobjectizer-tales-21/)
-  22. [Performance, part 3](https://marcoarena.wordpress.com/2024/03/07/sobjectizer-tales-22/)
-  23. [Mutable messages](https://marcoarena.wordpress.com/2024/03/14/sobjectizer-tales-23/)
-  24. [Delivering messages at shutdown](https://marcoarena.wordpress.com/2024/03/21/sobjectizer-tales-24/)
-  25. [Runtime telemetry](https://marcoarena.wordpress.com/2024/03/28/sobjectizer-tales-25/)
-  26. [Dispatcher selection](https://marcoarena.wordpress.com/2024/04/04/sobjectizer-tales-26/)
-  27. [Design ideas](https://marcoarena.wordpress.com/2024/04/11/sobjectizer-tales-27/)
-
 ## Michael Kristofik
 
 - Modern C++ In-Depth
@@ -103,7 +77,7 @@ I have learned cpp for years , and it's still comprehensive and complicate to me
 
 ## Raymond Chen
 
-- Inside STL series
+- Inside STL
   - [The different types of shared pointer control blocks](https://devblogs.microsoft.com/oldnewthing/20230821-00/?p=108626)
   - [The pair and the compressed pair](https://devblogs.microsoft.com/oldnewthing/20230801-00/?p=108509)
   - [The vector](https://devblogs.microsoft.com/oldnewthing/20230802-00/?p=108524)
@@ -118,16 +92,28 @@ I have learned cpp for years , and it's still comprehensive and complicate to me
   - [The `shared_ptr` constructor vs `make_shared`](https://devblogs.microsoft.com/oldnewthing/20230815-00/?p=108602)
   - [The `shared_ptr` constructor and `enable_shared_from_this`](https://devblogs.microsoft.com/oldnewthing/20230816-00/?p=108608)
   - [The different types of shared pointer control blocks](https://devblogs.microsoft.com/oldnewthing/20230821-00/?p=108626)
-  
+- Adding state to the update notification pattern
+  1. [Part 1](https://devblogs.microsoft.com/oldnewthing/20240417-00/?p=109679)
+  2. [Part 2](https://devblogs.microsoft.com/oldnewthing/20240418-00/?p=109685)
+  3. [Part 3](https://devblogs.microsoft.com/oldnewthing/20240419-00/?p=109689)
+  4. [Part 4](https://devblogs.microsoft.com/oldnewthing/20240422-00/?p=109693)
+  5. [Part 5](https://devblogs.microsoft.com/oldnewthing/20240423-00/?p=109697)
+  6. [Part 6](https://devblogs.microsoft.com/oldnewthing/20240424-00/?p=109700)
 - On writing loops in PPL and continuation-passing style
   1. [Part 1](https://devblogs.microsoft.com/oldnewthing/20230822-00/?p=108634)
   2. [Part 2](https://devblogs.microsoft.com/oldnewthing/20230823-00/?p=108640)
   3. [Part 3](https://devblogs.microsoft.com/oldnewthing/20230824-00/?p=108647)
   4. [Part 4](https://devblogs.microsoft.com/oldnewthing/20230825-00/?p=108652)
-
 - [The move constructor that you have to declare, even though you don’t want anyone to actually call it](https://devblogs.microsoft.com/oldnewthing/20230612-00/?p=108329)
-
 - [Why doesn’t my code compile when I change a `shared_ptr<T>(p)` to an equivalent `make_shared<T>(p)`?](https://devblogs.microsoft.com/oldnewthing/20240103-00/?p=109228)
+
+## Sandor Dargo
+
+- When and how variables are initialized
+  1. [Part 1](https://www.sandordargo.com/blog/2024/04/10/initializations-part-1)
+  2. [Part 2](https://www.sandordargo.com/blog/2024/04/17/initializations-part-2)
+  3. [Part 3](https://www.sandordargo.com/blog/2024/04/24/initializations-part-3)
+  4. [Part 4](https://www.sandordargo.com/blog/2024/05/01/initializations-part-4)
 
 ## Scott Meyers
 
