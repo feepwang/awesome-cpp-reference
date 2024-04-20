@@ -92,6 +92,7 @@ I have learned cpp for years , and it's still comprehensive and complicate to me
   - [The `shared_ptr` constructor vs `make_shared`](https://devblogs.microsoft.com/oldnewthing/20230815-00/?p=108602)
   - [The `shared_ptr` constructor and `enable_shared_from_this`](https://devblogs.microsoft.com/oldnewthing/20230816-00/?p=108608)
   - [The different types of shared pointer control blocks](https://devblogs.microsoft.com/oldnewthing/20230821-00/?p=108626)
+- [An informal comparison of the three major implementations of `std::string`](https://devblogs.microsoft.com/oldnewthing/20240510-00/?p=109742)
 - Adding state to the update notification pattern
   1. [Part 1](https://devblogs.microsoft.com/oldnewthing/20240417-00/?p=109679)
   2. [Part 2](https://devblogs.microsoft.com/oldnewthing/20240418-00/?p=109685)
@@ -99,6 +100,7 @@ I have learned cpp for years , and it's still comprehensive and complicate to me
   4. [Part 4](https://devblogs.microsoft.com/oldnewthing/20240422-00/?p=109693)
   5. [Part 5](https://devblogs.microsoft.com/oldnewthing/20240423-00/?p=109697)
   6. [Part 6](https://devblogs.microsoft.com/oldnewthing/20240424-00/?p=109700)
+  7. [Part 7](https://devblogs.microsoft.com/oldnewthing/20240425-00/?p=109702)
 - On writing loops in PPL and continuation-passing style
   1. [Part 1](https://devblogs.microsoft.com/oldnewthing/20230822-00/?p=108634)
   2. [Part 2](https://devblogs.microsoft.com/oldnewthing/20230823-00/?p=108640)
