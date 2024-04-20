@@ -112,12 +112,13 @@ I have learned cpp for years , and it's still comprehensive and complicate to me
   - [The deque, design](https://devblogs.microsoft.com/oldnewthing/20230809-00/?p=108577)
   - [The deque, implementation](https://devblogs.microsoft.com/oldnewthing/20230810-00/?p=108587)
   - [The array](https://devblogs.microsoft.com/oldnewthing/20230811-00/?p=108591)
+  - [The map, set, multimap, and multiset](https://devblogs.microsoft.com/oldnewthing/20230807-00/?p=108562)
   - [The unordered_map, unordered_set, unordered_multimap, and unordered_multiset](https://devblogs.microsoft.com/oldnewthing/20230808-00/?p=108572)
   - [Smart pointers](https://devblogs.microsoft.com/oldnewthing/20230814-00/?p=108597)
   - [The `shared_ptr` constructor vs `make_shared`](https://devblogs.microsoft.com/oldnewthing/20230815-00/?p=108602)
   - [The `shared_ptr` constructor and `enable_shared_from_this`](https://devblogs.microsoft.com/oldnewthing/20230816-00/?p=108608)
   - [The different types of shared pointer control blocks](https://devblogs.microsoft.com/oldnewthing/20230821-00/?p=108626)
-
+  
 - On writing loops in PPL and continuation-passing style
   1. [Part 1](https://devblogs.microsoft.com/oldnewthing/20230822-00/?p=108634)
   2. [Part 2](https://devblogs.microsoft.com/oldnewthing/20230823-00/?p=108640)
@@ -125,6 +126,8 @@ I have learned cpp for years , and it's still comprehensive and complicate to me
   4. [Part 4](https://devblogs.microsoft.com/oldnewthing/20230825-00/?p=108652)
 
 - [The move constructor that you have to declare, even though you don’t want anyone to actually call it](https://devblogs.microsoft.com/oldnewthing/20230612-00/?p=108329)
+
+- [Why doesn’t my code compile when I change a `shared_ptr<T>(p)` to an equivalent `make_shared<T>(p)`?](https://devblogs.microsoft.com/oldnewthing/20240103-00/?p=109228)
 
 ## Scott Meyers
 
