@@ -15,6 +15,13 @@ I have learned cpp for years , and it's still comprehensive and complicate to me
 - C++ programmer's guide to undefined behavior
   1. [1 of 11](https://pvs-studio.com/en/blog/posts/cpp/1129/)
   1. [2 of 11](https://pvs-studio.com/en/blog/posts/cpp/1136/)
+  1. [3 of 11](https://pvs-studio.com/en/blog/posts/cpp/1149/)
+  1. [4 of 11](https://pvs-studio.com/en/blog/posts/cpp/1156/)
+  1. [5 of 11](https://pvs-studio.com/en/blog/posts/cpp/1160/)
+  1. [6 of 11](https://pvs-studio.com/en/blog/posts/cpp/1163/)
+  1. [7 of 11](https://pvs-studio.com/en/blog/posts/cpp/1174/)
+  1. [8 of 11](https://pvs-studio.com/en/blog/posts/cpp/1178/)
+  1. [9 of 11](https://pvs-studio.com/en/blog/posts/cpp/1182/)
 
 ## Andreas Fertig
 
