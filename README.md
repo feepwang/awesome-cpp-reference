@@ -22,6 +22,7 @@ I have learned cpp for years , and it's still comprehensive and complicate to me
   1. [7 of 11](https://pvs-studio.com/en/blog/posts/cpp/1174/)
   1. [8 of 11](https://pvs-studio.com/en/blog/posts/cpp/1178/)
   1. [9 of 11](https://pvs-studio.com/en/blog/posts/cpp/1182/)
+  1. [10 of 11](https://pvs-studio.com/en/blog/posts/cpp/1193/)
 
 ## Andreas Fertig
 
